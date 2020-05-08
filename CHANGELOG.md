@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-05-08
+### Fixed
+- Additional letters #6.680 correctly enumerated.
+
 ## [1.0.0] - 2020-05-08
 ### Added
 - Letters of volumes 1-6.
