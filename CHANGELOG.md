@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+- Fixed date 2547 to 1547 for letter 772 of volume 3.
+- Changed order of attributes in elements correspDesc and correspAction
+- Changed http://d-nb.info/gnd/1026828384 to new ID https://d-nb.info/gnd/115622470
+- Changed http://d-nb.info/gnd/1089745613 to new ID https://d-nb.info/gnd/118754734
+- Changed http://d-nb.info/gnd/1089559410 to new ID https://d-nb.info/gnd/104193395
+- Changed http://d-nb.info/gnd/1057861189 to new ID https://d-nb.info/gnd/136729622
+- Changed http://d-nb.info/gnd/1090203497 to new ID https://d-nb.info/gnd/129465291
+
 ## [1.0.2] - 2021-06-23
 
 - Reduced editors to one editor as general contact person and provided an email adress.
